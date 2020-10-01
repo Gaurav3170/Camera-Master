@@ -16,7 +16,7 @@ body {
   width: 100%;
   height: 147px;
   background-color: #000;
-    background: linear-gradient(145deg, #5f9ea0, #33ffff);
+    background: linear-gradient(145deg,red,pink);
   border-top: 52px solid #333;
   border-bottom: 13px solid #5f9ea0;
   border-radius: 10px;
